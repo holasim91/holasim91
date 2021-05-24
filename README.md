@@ -5,3 +5,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holasim91&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=holasim)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contacts 📫
+
+* Github Repo Issue
+* Email: holasim91@gmail.com
+
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
