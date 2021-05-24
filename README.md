@@ -8,7 +8,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=holasim)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#61DAFB?style=flat-square&logo=React&logoColor=white"/>
 ### Contacts 📫
 
 * Github Repo Issue
