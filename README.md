@@ -3,9 +3,9 @@
 ## :flushed: Github Stats
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=holasim91)](https://github.com/stats-organization/github-stats-extended)
 
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=holasim91&langs_count=4)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=holasim91&langs_count=4)
 
-## Tech Stack
+## :feet: Tech Stack
 ### Languages
  <div align="left">
   <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -45,5 +45,5 @@
 </div>
 
 
-### 📫 Contacts 
+## 📫 Contacts 
 * Email: holasim91@gmail.com
