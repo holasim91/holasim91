@@ -1,9 +1,10 @@
+## :bow: Introduce
+Frontend engineer with 4 years in React / Next.js, mostly on B2B SaaS.
 
-
-## :flushed: Github Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=holasim91)](https://github.com/stats-organization/github-stats-extended)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=holasim91&langs_count=4)
+I inherit codebases rather than greenfield them — took over an outsourced
+ESG platform solo and cut 25% of its code while keeping it running.
+Currently exploring realtime sync, optimistic updates, and conflict
+resolution through personal projects in TypeScript.
 
 ## :feet: Tech Stack
 ### Languages
@@ -44,6 +45,10 @@
   <img src="http://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
 
+## :flushed: Github Stats
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=holasim91)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=holasim91&langs_count=4)
 
 ## 📫 Contacts 
 * Email: holasim91@gmail.com
