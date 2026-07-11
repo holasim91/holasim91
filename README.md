@@ -45,9 +45,7 @@ resolution through personal projects in TypeScript.
   <img src="http://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
 
-## :flushed: Github Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=holasim91)](https://github.com/stats-organization/github-stats-extended)
-
+## :flushed: 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=holasim91&langs_count=4)
 
 ## 📫 Contacts 
